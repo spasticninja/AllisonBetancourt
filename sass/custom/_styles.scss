@@ -1,0 +1,89 @@
+/* nice sticky footer, from http://getbootstrap.com/examples/sticky-footer/ */
+html, body {
+    height: 100%;
+    background-image:url('/images/subtle_white_feathers.png');
+    background-repeat:repeat;
+    font-family: 'Noto Serif', serif;
+    /* The html and body elements cannot have any padding or margin. */
+}
+p{
+  text-align:justify;
+}
+blockquote {
+  padding: 10px 20px;
+  margin: 0 0 20px;
+  font-size: 15px;
+  border-left: 5px solid #fff;
+}
+/*Navbar Changes*/
+.navbar-default .navbar-brand{
+  color:#6a1f75;
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight:600;
+}
+h1,h2,h3{
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: 400;
+}
+
+/* Home page stuff */
+#homeWell,#homeWellBook{
+  background-color: #ffffff;
+  background-image: none;
+}
+.carousel-control.left, .carousel-control.right {
+  color: #d4d4d4;
+  text-shadow: 0 1px 2px rgba(0,0,0,1);
+  background-image: none;
+}
+.carousel-indicators li{
+  border: 1px solid #dfdfdf;
+}
+
+
+/* Wrapper for page content to push down footer */
+#wrap {
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  /* Negative indent footer by its height */
+  margin: 0 auto -60px;
+  /* Pad bottom by footer height */
+  padding: 0 0 60px;
+}
+
+/* Fixes spacing on Blog Post Heading */
+.page-header p.meta{
+  margin-bottom:10px;
+}
+
+/* Fixes Sidebar items */
+.list-group{
+  text-align:left;
+}
+.aboutPanel{
+  padding-right:15px;
+  padding-left:15px;
+  padding-top:10px;
+  padding-bottom:10px;
+}
+
+/* Set the fixed height of the footer here */
+footer[role=contentinfo] {
+    height: 60px;
+}
+
+/* fb misalignment */
+.fb-like{
+  vertical-align: top;
+  margin-top:0px;
+}
+
+/* changing the color of horizontal bars */
+hr{
+  border-top: 1px solid #a5b2b9;
+}
+.page-header{
+  border-bottom: 1px solid #a5b2b9;
+  color: #6a1f75;
+}

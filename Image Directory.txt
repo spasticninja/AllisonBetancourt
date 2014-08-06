@@ -1,0 +1,61 @@
+This is a file compilation of images and their image credit
+
+1) TypewriterOld
+This is a picture of an old, antique typewriter. The image itself is designed to be old. Got this from Flickr.
+<meta property="og:image" content="/images/typerwriterOld.jpg" />
+<img src="/images/typewriterOld.jpg" Title="Glad for computers yet?" class="img-responsive text-center" style="margin:auto;">
+<small>Image credit: Typewriter by <a href="https://www.flickr.com/photos/laganart/14050480784/in/photolist-npAvWh-nbNoza-4mthTK-iH8veF-npAoqG-8TVVbp-99V89h-9j11h-8TZ2Uo-2ZW5oB-9iZZx-9iZYQ-9iZYd-rrw5L-4yb9Jj-iH9wUx-iH7Hd2-4aQKhv-dW5vpW-9cANi8-nUjHHE-8Nj1Ev-6D78cj-dcuFr6-gLaqBE-j2cQk-9bnvWQ-iZxJpe-PT1A4-67K7Pv-iHaKq3-bHYNjz-Ka6xq-8pnGqj-iBGoLG-iwotfV-dH6ARe-iwoaYw-dbnU5G-8pi25S-6Ut4b6-7DR3aH-8s3HbA-2T7nTo-tkYTQ-fsvpye-agDmBo-4HJgbH-6PsgCh-b4x15v" target="_blank">io. Lagana</a></small>
+
+2) teaAndWriting
+This image is of a cup of tea. In the background is an image of books/writing implements.
+<meta property="og:image" content="/images/teaAndWriting.jpg" />
+<img class="img-responsive text-center" Title="Writing is awesome." src="/images/teaAndWriting.jpg" style="margin:auto;">
+<small>Image credit: Miss Omija writing time by <a target="_blank" href="https://www.flickr.com/photos/raheelshahid/11770357624/in/photolist-iW7afq-n8vZop-4C5GcC-6N4rw1-jw8BdG-86UE7b-47nLFW-4GYHzU-7dZkQy-7pBPCN-7pBPhf-96jj4n-8Wz4mN-dEo1Sw-azt4M4-4sXqeX-9uFdCF-4JFP7A-9iZLRs-6GjQJK-aDHdjJ-6ii3xC-8SbakV-hcuwVn-bAP9ck-sjGcM-sjGck-sjGdc-bw6hkR-dMy94k-4DUyTx-dqc7GU-4RGVpk-bw6dhe-bYjKsG-8MFrU8-47iFYD-bz4J5m-dQcjyP-4VSHq2-86DvjF-wedU-86Dvj4-dUMWnA-7uMcoo-dohobx-cfCdhJ-5wHL3h-5y6tMG-e7xYpX">Raheel Shahid</a></small>
+
+3)ZebraPen
+This image is that of a silver pen. That is all.... also from Flickr
+<meta property="og:image" content="/images/ZebraPen.jpg" />
+<img class="img-responsive text-center" Title="One pen to rule them all!" src="/images/ZebraPen.jpg" style="margin:auto;">
+<small>Image credit: Zebra Pen 005 by <a href="https://www.flickr.com/photos/jwynia/" target="_blank">J Wynia</a></small>
+
+4)thewrittenword
+This image is of text. From Flickr
+<meta property="og:image" content="/images/thewrittenword.jpg" />
+<img src="/images/thewrittenword.jpg" Title="Handwriting is awesome... until your hand hurts." class="text-center img-responsive" style="margin:auto;"
+<small>Photo Credit: The written word by <a href="https://www.flickr.com/photos/paloetic/6381538651/in/photolist-62168f-bkZKx2-bAjhX2-8EUt2s-yRYUG-62GZWn-7trTMk-6dKk9g-ctEAou-5DxZa6-4SksC4-4DCcv4-skaZ-aHV47t-eBCTSV-e3om9G-5BBA1k-6dUvjx-aaFzdh-9y1eD-bo3m2z-nRppGA-9eKvZr-a3G1eU-7xAYJw-dPU8Qh-fAsysJ-4X7zeZ-5k8wzq-8EWknb-4RCQ1y-4GM6iK-o7wdj-fsA5BG-9ZT7mD-2WUKDW-4p1s5k-g7h9EG-9EvxTe-fXuDjB-HvN2R-dso7uN-i4a5Sr-cUBc6q-6o52sJ-ynRUT-7CUriE-qN4T-Cvsam-X71N8" target="_blank">palo</a>
+
+5) FantasyLandscape
+This image is of a castle on a cliff with waterfall. From flickr
+<meta property="og:image" content="/image/FantasyLandscape.jpg" />
+<img src="/images/FantasyLandscape.jpg" Title="Fantasy Landscape" class="img-responsive text-center" style="margin:auto;">
+<small> Photo Credit: Fantasy Landscape by <a href="https://www.flickr.com/photos/chiaralily/" target="_blank">Chiaralily</a>
+
+6) SunsetSkateboard
+this image is of a skateboarder looking at the sunset. It's from Flickr and titled no paragon
+<meta property="og:image" content="/image/SunsetSkateboard.jpg" />
+<img src="/images/SunsetSkateboard.jpg" Title="No Paragon" class="img-responsive text-center" style="margin:auto;">
+<small> Photo Credit: No Paragon by <a href="https://www.flickr.com/photos/nicemichael/" target="_blank">Michael Yan</a>
+
+7) handWritingPage
+Flickr image of a page of handwritten words
+<meta property="og:image" content="/images/handWritingPage.jpg" />
+<img class="img-responsive text-center" src="/images/handWritingPage.jpg" Title="Writing" style="margin:auto;">
+<small class="text-center" style="margin:auto;">Image credit: Writing by <a href="https://www.flickr.com/photos/jjpacres/3293117576/in/photolist-62168f-7vjrvH-5yBECt-bkZKx2-68WWWx-7Wo7fL-9TsMRs-3DQrgZ-5Qmm1s-mmnqE4-5buhvK-bAjhX2-8EUt2s-7uYXmy-7nnGPp-bnPGEX-7fdMJw-z8mP9-4s2EQc-yRYUG-ahQdsq-62GZWn-9Xi3nt-4wkieL-7trTMk-4ioon6-2iUvpY-j2Y47d-7eYMNk-6dKk9g-4SwxjE-kNrULD-ajNXqp-bHqZQV-4Y7RJP-6aZ8R3-kUngJ-nB27oD-ctEAou-5DxZa6-9odNwE-n6qHaH-4SksC4-97oWjA-f6kk8C-4Mwtbx-f2xhJZ-dNFMr-51Df1p-7fu4uE" target="_blank">Jeffrey James Pacres</a></small>
+
+8) BooksAntique
+Flickr image of three old books
+<meta property="og:image" content="/images/BooksAntique.jpg" />
+<img class="img-responsive text-center" src="/images/BooksAntique.jpg" Title="Books" style="margin:auto;">
+<small>Image Credit: Books by <a href="https://www.flickr.com/photos/brenda-starr/" target="_blank">Brenda Clarke</a></small>
+
+9) OldBooks
+Flickr image of stacked books with an older binding
+<meta property="og:image" content="/images/OldBooks.jpg" />
+<img class="img-responsive text-center" src="/images/OldBooks.jpg" Title="Old Books" style="margin:auto;">
+<small>Image Credit: Books by <a href="https://www.flickr.com/photos/evergreenkamal/" target="_blank">Kamal Hamid</a></small>
+
+10) InkQuillBook
+Flickr image of an ink well, quill, and book
+<meta property="og:image" content="/images/InkQuillBook.jpg" />
+<img class="img-responsive text-center" src="/images/InkQuillBook.jpg" Title="Before computers: ink, quill & book" style="margin:auto;">
+<small>Image Credit: Before Computers by <a href="https://www.flickr.com/photos/mjlaflaca/" target="_blank">mj*laflaca</a></small>
